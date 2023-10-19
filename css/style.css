@@ -28,7 +28,7 @@
 }
 
 .jump {
-  animation: jump 800ms ease-out;
+  animation: jump 8000ms ease-out;
 }
 
 .clouds {
